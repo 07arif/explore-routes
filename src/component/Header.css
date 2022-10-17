@@ -1,0 +1,10 @@
+/* .nav-item{
+    background-color: red;
+} */
+.nav-item a {
+    text-decoration: none;
+    color: purple;
+    font-size: 25px;
+    font-weight: 700;
+    margin-right: 10px;
+}
