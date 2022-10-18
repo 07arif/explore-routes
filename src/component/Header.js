@@ -7,9 +7,10 @@ const Header = () => {
         <div className='nav-item'>
             <nav>
                 <Link to='/home'>Home</Link>
-                <Link to="/about">About</Link>
                 <Link to="/product">Product</Link>
                 <Link to="/Friends">Friends</Link>
+                <Link to="/post">Post</Link>
+                <Link to="/about">About</Link>
             </nav>
             <p>Common Header</p>
         </div>
