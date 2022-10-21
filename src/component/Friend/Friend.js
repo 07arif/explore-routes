@@ -7,7 +7,7 @@ const Friend = ({friend}) => {
     return (
         <div className='friend'>
            <h3> Name:{name}</h3>
-           <p>Email: {email}</p>
+           <p>Email: {email}</p>  
            <p><small>UserName: <Link to={`/friend/${id}`}>{username}</Link></small></p>
         </div>
     );
